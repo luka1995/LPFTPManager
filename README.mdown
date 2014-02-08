@@ -6,7 +6,6 @@ http://lukapenger.eu
 ![ScreenShot](ScreenShots/img1.png)
 ![ScreenShot](ScreenShots/img2.png)
 ![ScreenShot](ScreenShots/img3.png)
-![ScreenShot](ScreenShots/img4.png)
 
 ##License
 
