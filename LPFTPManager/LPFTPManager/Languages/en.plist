@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LPLoginViewController_HostnameTitle</key>
+	<string>Hostname:</string>
+	<key>LPLoginViewController_UsernameTitle</key>
+	<string>Username:</string>
+	<key>LPLoginViewController_PasswordTitle</key>
+	<string>Password:</string>
+	<key>LPLoginViewController_AutoLoginTitle</key>
+	<string>Auto login</string>
+	<key>LPLoginViewController_HostnameTextFieldPlaceholderText</key>
+	<string>Enter hostname</string>
+	<key>LPLoginViewController_UsernameTextFieldPlaceholderText</key>
+	<string>Enter username</string>
+	<key>LPLoginViewController_PasswordTextFieldPlaceholderText</key>
+	<string>Enter password</string>
+	<key>LPLoginViewController_LoginError</key>
+	<dict>
+		<key>Title</key>
+		<string>Login Failed</string>
+		<key>Message</key>
+		<string>error login...</string>
+		<key>CancelButton</key>
+		<string>Cancel</string>
+	</dict>
+	<key>LPNoInternetConnectionError</key>
+	<dict>
+		<key>Title</key>
+		<string>No Internet Connection</string>
+		<key>Message</key>
+		<string>You require an internet connection via WiFi or cellular network for location finding to work.</string>
+		<key>ExitButton</key>
+		<string>Exit</string>
+		<key>OKButton</key>
+		<string>OK</string>
+	</dict>
+	<key>LPLoginViewController_Title</key>
+	<string>Login View</string>
+	<key>LPListViewController_Title</key>
+	<string>List Of Files</string>
+	<key>LPPhotoViewController_Title</key>
+	<string>Photo</string>
+</dict>
+</plist>
