@@ -3,10 +3,10 @@
 Created by Luka Penger
 http://lukapenger.eu
 
-![](http://lukapenger.eu/GitHub/LPFTPManager/img1.png)
-![](http://lukapenger.eu/GitHub/LPFTPManager/img2.png)
-![](http://lukapenger.eu/GitHub/LPFTPManager/img3.png)
-![](http://lukapenger.eu/GitHub/LPFTPManager/img4.png)
+![](http://lukapenger.eu/GitHub/LPFTPManager/img1.PNG)
+![](http://lukapenger.eu/GitHub/LPFTPManager/img2.PNG)
+![](http://lukapenger.eu/GitHub/LPFTPManager/img3.PNG)
+![](http://lukapenger.eu/GitHub/LPFTPManager/img4.PNG)
 
 ##License
 
