@@ -14,4 +14,4 @@ This code is distributed under the terms and conditions of the [MIT license](htt
 
 ##Change log
 
-A brief summary of each LPGoogleFunctions release can be found on the [wiki](https://github.com/luka1995/LPFTPManager/wiki/Change-log).
+A brief summary of each LPFTPManager release can be found on the [wiki](https://github.com/luka1995/LPFTPManager/wiki/Change-log).
