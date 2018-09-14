@@ -1,16 +1,15 @@
-#LPFTPManager
+# LPFTPManager
 
 Created by Luka Penger
-http://lukapenger.eu
 
 ![ScreenShot](ScreenShots/img1.png)
 ![ScreenShot](ScreenShots/img2.png)
 ![ScreenShot](ScreenShots/img3.png)
 
-##License
+## License
 
 This code is distributed under the terms and conditions of the [MIT license](https://github.com/luka1995/LPFTPManager/blob/master/LICENSE).
 
-##Change log
+## Change log
 
 A brief summary of each LPFTPManager release can be found on the [wiki](https://github.com/luka1995/LPFTPManager/wiki/Change-log).
